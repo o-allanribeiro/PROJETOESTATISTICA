@@ -14,4 +14,4 @@ jobs:
         user: ${{ secrets.USER }}
         password: ${{ secrets.PASS }}
         localDir: "dist"
-        remoteDir: 'web'
+        remoteDir: '\\windows-pd-0001.fs.locaweb.com.br\WNFS-0002\allanribeirodasi1\web'
