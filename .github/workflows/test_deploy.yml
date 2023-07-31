@@ -13,5 +13,5 @@ jobs:
         host: ${{ secrets.HOST }} 
         user: ${{ secrets.USER }}
         password: ${{ secrets.PASS }}
-        localDir: "recipes\templates\recipes\Pages\home.html"
+        localDir: "dist"
         remoteDir: "web"
