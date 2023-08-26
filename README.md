@@ -10,13 +10,14 @@ Veremos exemplos práticos e divertidos para cada assunto, além de indicar as r
 ```
 ***
 # ESTATÍSTICA BÁSICA E UMA INTRODUÇÃO AOS SEUS PRINCIPAIS CONCEITOS
-1. ### [O que é a estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#o-que-é-a-estatística)
-2. ### [O que são os conjuntos de dados?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#o-que-são-os-conjuntos-de-dados)
-3. ### [Quais são os ramos da estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#quais-são-os-ramos-da-estatística)
-4. ### [Quais são os tipos de dados](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#quais-são-os-tipos-de-dados)
-5. ### [Como apresentar os dados estatísticos?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#como-apresentar-os-dados-estatísticos)
-6. ### [Gráficos](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#gráficos)
-
+1. ### [O que é a estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#o-que-%C3%A9-a-estat%C3%ADstica-1)
+2. ### [O que são os conjuntos de dados?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#o-que-s%C3%A3o-os-conjuntos-de-dados-1)
+3. ### [Quais são os ramos da estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#quais-s%C3%A3o-os-ramos-da-estat%C3%ADstica-1)
+4. ### [Quais são os tipos de dados](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#quais-s%C3%A3o-os-tipos-de-dados-1)
+5. ### [Gráficos](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#gr%C3%A1ficos-1)
+   1. #### [Passos básicos para construir um gráfico](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#passos-b%C3%A1sicos-para-construir-um-gr%C3%A1fico)
+7. ### [Medidas de posição](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#medidas-de-posi%C3%A7%C3%A3o)
+8. ### [Quais são as medidas de variabilidade](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#--quais-s%C3%A3o-as-medidas-de-variabilidade)
 
 ## O que é a estatística
 Basicamente a estatística é a arte e a ciência que se concentra em coletar, organizar, analisar e interpretar dados. Os dados são informações coletadas por meio de vários métodos como: observações, contagens, medições ou experimentos.
@@ -102,14 +103,14 @@ Desenhar as figuras geométricas correspondentes aos valores das variáveis, usa
 Incluir legendas ou rótulos para identificar as categorias ou os intervalos das variáveis. As legendas devem ser breves, precisas e coerentes, sem omitir ou acrescentar informações desnecessárias.
 Incluir notas explicativas ou observações sobre o gráfico se necessário. As notas devem ser usadas para esclarecer aspectos relevantes ou excepcionais do gráfico, sem repetir ou contradizer o que já foi dito no título ou nas legendas.
 
-### Medidas de posição?
+### Medidas de posição
 As medidas de posição são valores numéricos que indicam a localização dos dados em uma distribuição. Elas permitem comparar diferentes conjuntos de dados ou analisar a variação dos dados dentro de um mesmo conjunto.. Algumas medidas de posição comuns são:
 #### - Média: é a soma dos valores dividida pelo número de valores. Representa o valor central ou típico dos dados.
 #### - Mediana: é o valor que divide os dados ordenados em duas partes iguais. Representa o valor do meio dos dados.
 #### - Moda: é o valor que ocorre com maior frequência nos dados. Representa o valor mais comum dos dados.
 #### - Quartis: são os valores que dividem os dados ordenados em quatro partes iguais. Representam os valores que delimitam 25%, 50% e 75% dos dados.
 
-### - Quais são as medidas de variabilidade?
+### - Quais são as medidas de variabilidade
 As medidas de variabilidade são valores numéricos que indicam a dispersão ou a variação dos dados em uma distribuição. Algumas medidas de variabilidade comuns são:
 #### - Amplitude: é a diferença entre o maior e o menor valor dos dados. Representa a variação total dos dados.
 #### - Desvio médio: é a média dos desvios absolutos dos valores em relação à média. Representa a variação média dos dados em torno da média.
