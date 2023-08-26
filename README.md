@@ -308,3 +308,7 @@ SILVA, Daiane de Oliveira; NOLL, Matias. Guia prático de fontes de informaçõe
 Disponível em: <https://phys.org/news/2023-07-korean-team-room-temperature-ambient-pressure-superconductor.html>. Acesso em: 26 ago. 2023.
 
 TRIOLA, Mario F. Introdução à estatística. 8. ed. Rio de Janeiro: LTC, 2005.
+
+## Créditos
+
+Copyright (C) 2023 - Allan Ribeiro da Silva
