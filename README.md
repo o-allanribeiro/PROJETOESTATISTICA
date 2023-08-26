@@ -312,3 +312,7 @@ TRIOLA, Mario F. Introdução à estatística. 8. ed. Rio de Janeiro: LTC, 2005.
 ## Créditos
 
 Copyright (C) 2023 - Allan Ribeiro da Silva
+
+## License
+
+Allan Ribeiro is [MIT LICENSED](https://github.com/o-allanribeiro/PROJETOESTATISTICA/blob/abdc8a2bfb5359a8cb078e7ed15933bec29b58db/LICENSE).
