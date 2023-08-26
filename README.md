@@ -1,42 +1,57 @@
 # PROJETOESTATISTICA
 Estatística com Python: Códigos e Exemplos
-ESTATÍSTICA BÁSICA E UMA INTRODUÇÃO AOS SEUS PRINCIPAIS CONCEITOS
- Olá, pessoal! Sejam bem-vindos ao meu blog, onde vou compartilhar com vocês as minhas aventuras no mundo da estatística, ciência de dados, programação em Python e economia.
-Neste primeiro post, vamos embarcar em uma viagem pela Estatística, explorando três assuntos fundamentais: o que é a estatística, quais são os tipos de dados e como fazer uma análise exploratória de dados. Vamos ver exemplos práticos e divertidos para cada assunto e indicar as fontes dos livros que me inspiraram.
-Vamos começar!
-O que é a estatística?
-Pois bem, basicamente estatística é a arte e a ciência que se concentra em coletar, organizar, analisar e interpretar dados. Os dados são informações coletadas por meio de vários métodos como: observações, contagens, medições ou experimentos.
+***
+## ESTATÍSTICA BÁSICA E UMA INTRODUÇÃO AOS SEUS PRINCIPAIS CONCEITOS COM PYTHON
 
+`Olá, pessoal! Sejam bem-vindos ao meu repositório GIT.`
+```
+Neste projeto, o principal objetivo é introduzir a Estatística usando python.
+Veremos exemplos práticos e divertidos para cada assunto, além de indicar as referências.
+```
+***
 # ESTATÍSTICA BÁSICA E UMA INTRODUÇÃO AOS SEUS PRINCIPAIS CONCEITOS
-### O que é a estatística?
-#### Introdução
-#### Você sabia que a estatística nasceu da política?
-#### O que são os conjuntos de dados?
-#### Quais são os ramos da estatística?
-#### Quais são os tipos de dados?
-#### Como apresentar os dados estatísticos?
-#### Gráficos
+1. ### [O que é a estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#o-que-é-a-estatística)
+2. ### [O que são os conjuntos de dados?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#o-que-são-os-conjuntos-de-dados)
+3. ### [Quais são os ramos da estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#quais-são-os-ramos-da-estatística)
+4. ### [Quais são os tipos de dados](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#quais-são-os-tipos-de-dados)
+5. ### [Como apresentar os dados estatísticos?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#como-apresentar-os-dados-estatísticos)
+6. ### [Gráficos](https://github.com/o-allanribeiro/PROJETOESTATISTICA/edit/main/README.md#gráficos)
 
 
+## O que é a estatística
+Basicamente a estatística é a arte e a ciência que se concentra em coletar, organizar, analisar e interpretar dados. Os dados são informações coletadas por meio de vários métodos como: observações, contagens, medições ou experimentos.
+***
+> ### Você sabia que a estatística nasceu da política
+> A palavra vem do latim e significa “estado”, pois era usada para coletar e resumir dados sobre um país. Um fato
+> histórico interessante é que um dos pioneiros da estatística foi John Graunt, um comerciante inglês que, em 1662,
+>  publicou “Natural and Political Observations Made upon the Bills of Mortality” (Observações naturais e políticas
+> feitas sobre as contas da mortalidade). Essa obra apresentou análises de informes sobre os dados de nascimentos,
+> mortes e causas das mortes, e a partir disso usou o rigor da coleta dos dados para tirar conclusões. Na época, foi
+> seguido por inúmeros estudos socioeconômicos, como mortalidade, taxa populacional, dentre outros.
+>> [![Trabalho de Graunt]([https://en.wikipedia.org/wiki/John_Graunt](https://github.com/o-allanribeiro/PROJETOESTATISTICA/blob/main/Imagens/readme/Natural_and_political_observations))](https://en.wikipedia.org/wiki/John_Graunt)
 
-## Introdução
-### Você sabia que a estatística nasceu da política? 
-A palavra vem do latim e significa “estado”, pois era usada para coletar e resumir dados sobre um país. Um fato histórico interessante é que um dos pioneiros da estatística foi John Graunt, um comerciante inglês que, em 1662, publicou “Natural and Political Observations Made upon the Bills of Mortality” (Observações naturais e políticas feitas sobre as contas da mortalidade). Essa obra apresentou análises de informes sobre os dados de nascimentos, mortes e causas das mortes, e a partir disso usou o rigor da coleta dos dados para tirar conclusões. Na época, foi seguido por inúmeros estudos socioeconômicos, como mortalidade, taxa populacional, dentre outros. 
+> Pois bem, basicamente estatística é a arte e a ciência que se concentra em `coletar, organizar, analisar e interpretar dados.`
+> Os dados são informações coletadas por meio de vários métodos como: observações, contagens, medições ou experimentos.
+Logo, entederemos como a estatística pode ser uma amiga ou uma inimiga, dependendo de como os dados são coletados e apresentados.
 
-Pois bem, basicamente estatística é a arte e a ciência que se concentra em coletar, organizar, analisar e interpretar dados. Os dados são informações coletadas por meio de vários métodos como: observações, contagens, medições ou experimentos.
-Por isso, aqui você vai entender que a estatística pode ser uma amiga ou uma inimiga, dependendo de como os dados são coletados e apresentados.
+### O que são os conjuntos de dados
 
-### O que são os conjuntos de dados?
-Um conjunto de dados é um grupo de dados que se referem a um sobre algum assunto ou contexto. 
-Existem dois tipos de conjuntos de dados: população e amostra. 
-A população é o conjunto de todos os elementos que nos interessam em uma pesquisa. 
-A amostra é um subconjunto da população, selecionado de forma aleatória ou sistemática, que representa as características da população.
+Um conjunto de dados é um grupo de dados que se referem a algum assunto ou contexto.
+Existem dois tipos de conjuntos de dados: 
+- População
+
+  A população é o conjunto de todos os elementos que nos interessam em uma pesquisa. 
+- Amostra
+
+  A amostra é um subconjunto da população, selecionado de forma aleatória ou sistemática, que representa as características da população.
+  
 Para o exemplo, observe a imagem:
 
+> ![Imagens/readme/samp_popu.png](https://github.com/o-allanribeiro/PROJETOESTATISTICA/blob/main/Imagens/readme/samp_popu.png?raw=true)
 
 A imagem acima demonstra o conceito de população e a amostra.
-A população é o conjunto de todos os elementos que são objeto de estudo, e é representada pelo círculo azul. 
-A amostra é o conjunto de elementos selecionados para obter dados, e é representada pelos pontos coloridos dentro dos semi-círculos laranja e roxo. 
+A população é o conjunto de todos os elementos que são objeto de estudo, e é representada pelos círculos azuis e os vermelhos. 
+A amostra é o conjunto de elementos selecionados para obter dados, e é representada pelos cículos vermelhos. 
 A imagem indica que há diferentes formas de realizar a amostragem, e que a amostra pode ser mais ou menos representativa da população.
 
 Um estudo de caso sobre uso desse conceito é:
@@ -44,7 +59,7 @@ Um estudo de caso sobre uso desse conceito é:
 Imagine que queremos analisar a opinião dos eleitores brasileiros sobre um certo candidato à presidência. 
 A população é o conjunto de todos os eleitores brasileiros, e a amostra é o conjunto de eleitores que participaram da pesquisa. A imagem mostra que podemos usar diferentes métodos para escolher a amostra, e que a amostra pode ter maior ou menor similaridade com a população.
 
-### Quais são os ramos da estatística?
+### Quais são os ramos da estatística
 A estatística pode ser dividida em dois ramos principais: a estatística descritiva e a estatística inferencial. 
 Observe a imagem:
 A estatística descritiva se dedica a resumir e apresentar os dados de forma visual e organizada, por meio de tabelas e gráficos. 
@@ -52,7 +67,7 @@ Sendo assim, a estatística descritiva nos ajuda a ver as características e as 
 A estatística inferencial se dedica a utilizar métodos de estimativa e teste de hipóteses para fazer análises sobre a população com base na amostra .
 Logo, a estatística inferencial se fundamenta em uma ideia e o rigor dos métodos estatísticos. A imagem demonstra a estatística inferencial como uma lâmpada, no sentido de iluminar o nosso entendimento da população com base na amostra.
 
-### Quais são os tipos de dados?
+### Quais são os tipos de dados
 Os dados podem ser classificados em dois tipos: dados categorizados e dados quantitativos. 
 Os dados categorizados são aqueles que expressam qualidades ou atributos dos elementos, como sexo, cor dos olhos, estado civil, etc. 
 Os dados quantitativos são aqueles que expressam quantidades ou medidas dos elementos, como altura, peso, idade, renda, etc.
