@@ -1,5 +1,5 @@
 # Previsão do IPCA e da SELIC usando modelos ARIMA
-Neste projeto, eu usei modelos ARIMA (AutoRegressive Integrated Moving Average) para prever os valores do IPCA (Índice Nacional de Preços ao Consumidor Amplo) e da SELIC (Sistema Especial de Liquidação e de Custódia) no Brasil. O meu objetivo é analisar as séries temporais dessas variáveis econômicas e gerar previsões confiáveis para auxiliar na tomada de decisões. A minha motivação é aprender mais sobre econometria e modelagem de séries temporais.
+Neste projeto, eu usei modelos ARIMA (AutoRegressive Integrated Moving Average) para prever os valores do IPCA (Índice Nacional de Preços ao Consumidor Amplo) e da SELIC (Sistema Especial de Liquidação e de Custódia) no Brasil. O meu objetivo é analisar as séries temporais dessas variáveis econômicas e gerar previsões confiáveis para auxiliar na tomada de decisões. A minha motivação é praticar, aprender e desenvolver as minhas habilidades sobre econometria e modelagem de séries temporais.
 
 # Status do projeto
 O meu projeto está concluído, mas eu pretendo fazer algumas melhorias no futuro, como:
