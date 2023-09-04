@@ -311,8 +311,11 @@ TRIOLA, Mario F. Introdução à estatística. 8. ed. Rio de Janeiro: LTC, 2005.
 
 ## Créditos
 
+O meu projeto foi feito individualmente, com a ajuda do meu portfólio acadêmico.
 Copyright (C) 2023 - Allan Ribeiro da Silva
 
 ## License
 
 Allan Ribeiro is [MIT LICENSED](https://github.com/o-allanribeiro/PROJETOESTATISTICA/blob/abdc8a2bfb5359a8cb078e7ed15933bec29b58db/LICENSE).
+
+O meu projeto está licenciado sob a MIT License, que permite o uso, a cópia, a modificação e a distribuição do meu código, desde que seja dado o crédito ao autor original e que seja incluída uma cópia da licença no projeto. Veja o arquivo [LICENSE](https://github.com/o-allanribeiro/PROJETOESTATISTICA/blob/abdc8a2bfb5359a8cb078e7ed15933bec29b58db/LICENSE) para mais detalhes.
