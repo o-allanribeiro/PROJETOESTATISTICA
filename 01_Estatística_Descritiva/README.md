@@ -1,13 +1,14 @@
-# PROJETOESTATISTICA
-Estatística com Python: Códigos e Exemplos
-***
-## ESTATÍSTICA BÁSICA E UMA INTRODUÇÃO AOS SEUS PRINCIPAIS CONCEITOS COM PYTHON
+# Módulo 01 — Estatística Descritiva
+
+> Status: ✅ Completo
 
 `Olá, pessoal! Sejam bem-vindos ao meu repositório GIT.`
 ```
-Neste projeto, o principal objetivo é introduzir a Estatística usando python.
+Neste módulo, o principal objetivo é introduzir a Estatística Descritiva usando Python.
 Veremos exemplos práticos e divertidos para cada assunto, além de indicar as referências.
 ```
+
+Pré-requisito: [Módulo 00 — Python Essencial](../00_Python_Essencial) · Próximo módulo: [02 — Probabilidade](../02_Probabilidade)
 ***
 # ESTATÍSTICA BÁSICA E UMA INTRODUÇÃO AOS SEUS PRINCIPAIS CONCEITOS
 1. ### [O que é a estatística?](https://github.com/o-allanribeiro/PROJETOESTATISTICA/tree/main#o-que-%C3%A9-a-estat%C3%ADstica-1)
