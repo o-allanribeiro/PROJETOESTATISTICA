@@ -1,6 +1,10 @@
 # Módulo 04 — Inferência Estatística
 
-> Status: 📋 Planejado
+> Status: ✅ Completo
+
+## Conteúdo
+- [`estimacao_intervalar.ipynb`](estimacao_intervalar.ipynb) — Teorema Central do Limite (simulação), estimação pontual x intervalar, intervalo de confiança para a média (σ conhecido e desconhecido), correção para população finita, intervalo de confiança para proporção
+- [`tamanho_amostra_e_testes_hipotese.ipynb`](tamanho_amostra_e_testes_hipotese.ipynb) — determinação de tamanho de amostra para média e para proporção, introdução a testes de hipótese via lógica do intervalo de confiança
 
 ## Objetivo
 Sair da descrição de dados para a estimação: usar uma amostra para tirar conclusões sobre uma população, com rigor sobre a margem de erro envolvida.

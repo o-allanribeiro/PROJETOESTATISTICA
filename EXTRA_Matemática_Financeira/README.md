@@ -1,6 +1,9 @@
 # Extra — Matemática Financeira
 
-> Status: 📋 Planejado — módulo opcional, fora da trilha principal Estatística → Econometria
+> Status: ✅ Completo — módulo opcional, fora da trilha principal Estatística → Econometria
+
+## Conteúdo
+- [`matematica_financeira.ipynb`](matematica_financeira.ipynb) — juros simples x compostos, taxas equivalentes (nominal x efetiva), séries de pagamentos uniformes, VPL e TIR (incluindo um caso real de inconsistência de ranking entre os dois critérios), SAC x Price, payback simples e descontado
 
 ## Objetivo
 Fundamentos de matemática financeira aplicados com Python, úteis para quem quer conectar o curso a finanças e avaliação de investimentos.

@@ -1,6 +1,10 @@
 # Módulo 08 — Econometria II
 
-> Status: 📋 Planejado
+> Status: ✅ Completo
+
+## Conteúdo
+- [`dados_em_painel.ipynb`](dados_em_painel.ipynb) — Pooled OLS, Efeitos Fixos, Efeitos Aleatórios e teste de Hausman (implementado manualmente), retomando o dataset de companhias aéreas do Módulo 07 e acrescentando um segundo estudo de caso clássico (aluguel em cidades universitárias) onde ignorar o painel muda a conclusão
+- [`rental_housing.csv`](rental_housing.csv) — dataset usado no segundo estudo de caso (Wooldridge, clássico da literatura de econometria)
 
 ## Objetivo
 Estender a regressão múltipla para estruturas de dados em painel (mesmas unidades observadas ao longo do tempo), muito comuns em economia e finanças.

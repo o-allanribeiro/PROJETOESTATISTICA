@@ -1,6 +1,9 @@
 # Módulo 06 — Estatística Econômica e Números-Índices
 
-> Status: 📋 Planejado
+> Status: ✅ Completo
+
+## Conteúdo
+- [`numeros_indices.ipynb`](numeros_indices.ipynb) — número-índice simples, índices agregados (Laspeyres, Paasche, Fisher, Marshall-Edgeworth), IPCA/INPC/IGP-M reais via API do Banco Central (`python-bcb`), IPCA acumulado em 12 meses, deflacionamento e encadeamento de índices
 
 ## Objetivo
 Aplicar estatística a dados econômicos reais: como índices de preços são construídos e como usá-los para comparar valores ao longo do tempo.

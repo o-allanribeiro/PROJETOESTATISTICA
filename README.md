@@ -16,20 +16,20 @@ A base teórica é a mesma que estudei na graduação em **Ciências Econômicas
 | 00 | [Python Essencial](00_Python_Essencial) | 📋 Planejado |
 | 01 | [Estatística Descritiva](01_Estatística_Descritiva) | ✅ Completo |
 | 02 | [Probabilidade](02_Probabilidade) | ✅ Completo |
-| 03 | [Distribuições de Probabilidade](03_Distribuições_de_Probabilidade) | 📋 Planejado |
-| 04 | [Inferência Estatística](04_Inferência_Estatística) | 📋 Planejado |
-| 05 | [Correlação e Regressão Linear](05_Correlação_e_Regressão_Linear) | 📋 Planejado |
-| 06 | [Estatística Econômica e Números-Índices](06_Estatística_Econômica_e_Números_Índices) | 📋 Planejado |
-| 07 | [Econometria I](07_Econometria_I) | 📋 Planejado |
-| 08 | [Econometria II](08_Econometria_II) | 📋 Planejado |
-| 09 | [Séries Temporais](09_Séries_Temporais) | 🚧 Em construção |
-| 10 | [Machine Learning Aplicado](10_Machine_Learning_Aplicado) | 🚧 Em construção |
+| 03 | [Distribuições de Probabilidade](03_Distribuições_de_Probabilidade) | ✅ Completo |
+| 04 | [Inferência Estatística](04_Inferência_Estatística) | ✅ Completo |
+| 05 | [Correlação e Regressão Linear](05_Correlação_e_Regressão_Linear) | ✅ Completo |
+| 06 | [Estatística Econômica e Números-Índices](06_Estatística_Econômica_e_Números_Índices) | ✅ Completo |
+| 07 | [Econometria I](07_Econometria_I) | ✅ Completo |
+| 08 | [Econometria II](08_Econometria_II) | ✅ Completo |
+| 09 | [Séries Temporais](09_Séries_Temporais) | ✅ Completo |
+| 10 | [Machine Learning Aplicado](10_Machine_Learning_Aplicado) | ✅ Completo |
 
 ### Módulos extras (fora da trilha principal)
 
 | Módulo | Status |
 |--------|--------|
-| [Matemática Financeira](EXTRA_Matemática_Financeira) | 📋 Planejado |
+| [Matemática Financeira](EXTRA_Matemática_Financeira) | ✅ Completo |
 | [Pesquisa Operacional](EXTRA_Pesquisa_Operacional) | 📋 Planejado |
 
 Cada módulo tem seu próprio `README.md` com objetivo, tópicos abordados, pré-requisitos e ferramentas usadas. Os módulos concluídos têm notebooks práticos em Python; os planejados têm o sílabo definido e serão preenchidos progressivamente.

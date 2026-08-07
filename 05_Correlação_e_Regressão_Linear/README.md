@@ -1,6 +1,9 @@
 # Módulo 05 — Correlação e Regressão Linear
 
-> Status: 📋 Planejado
+> Status: ✅ Completo
+
+## Conteúdo
+- [`correlacao_e_regressao.ipynb`](correlacao_e_regressao.ipynb) — distribuição conjunta, covariância, correlação de Pearson, regressão linear simples (MQO com `statsmodels`), R² e análise gráfica de resíduos, contrastando um exemplo de relação forte com um de relação fraca
 
 ## Objetivo
 Estudar a relação entre duas variáveis: primeiro medir essa relação (correlação) e depois modelá-la (regressão linear simples). Este módulo é a ponte direta para Econometria.
