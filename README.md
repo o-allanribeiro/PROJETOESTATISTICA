@@ -13,7 +13,7 @@ A base teórica é a mesma que estudei na graduação em **Ciências Econômicas
 
 | # | Módulo | Status |
 |---|--------|--------|
-| 00 | [Python Essencial](00_Python_Essencial) | 📋 Planejado |
+| 00 | [Python Essencial](00_Python_Essencial) | ✅ Completo |
 | 01 | [Estatística Descritiva](01_Estatística_Descritiva) | ✅ Completo |
 | 02 | [Probabilidade](02_Probabilidade) | ✅ Completo |
 | 03 | [Distribuições de Probabilidade](03_Distribuições_de_Probabilidade) | ✅ Completo |
@@ -30,7 +30,7 @@ A base teórica é a mesma que estudei na graduação em **Ciências Econômicas
 | Módulo | Status |
 |--------|--------|
 | [Matemática Financeira](EXTRA_Matemática_Financeira) | ✅ Completo |
-| [Pesquisa Operacional](EXTRA_Pesquisa_Operacional) | 📋 Planejado |
+| [Pesquisa Operacional](EXTRA_Pesquisa_Operacional) | ✅ Completo |
 
 Cada módulo tem seu próprio `README.md` com objetivo, tópicos abordados, pré-requisitos e ferramentas usadas. Os módulos concluídos têm notebooks práticos em Python; os planejados têm o sílabo definido e serão preenchidos progressivamente.
 

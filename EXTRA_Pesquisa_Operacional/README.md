@@ -1,6 +1,9 @@
 # Extra — Pesquisa Operacional
 
-> Status: 📋 Planejado — módulo opcional, fora da trilha principal Estatística → Econometria
+> Status: ✅ Completo — módulo opcional, fora da trilha principal Estatística → Econometria
+
+## Conteúdo
+- [`programacao_linear.ipynb`](programacao_linear.ipynb) — formulação de um problema de mix de produção, resolução com `scipy.optimize.linprog` e `PuLP`, preços-sombra (variáveis duais), método Simplex (conceitual) e modelo de transporte
 
 ## Objetivo
 Introduzir otimização aplicada: formular problemas de decisão como modelos matemáticos e resolvê-los com Python.

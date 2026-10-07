@@ -1,6 +1,9 @@
 # Módulo 00 — Python Essencial
 
-> Status: 📋 Planejado
+> Status: ✅ Completo
+
+## Conteúdo
+- [`python_essencial.ipynb`](python_essencial.ipynb) — tipos de dados, operadores, listas/tuplas/dicionários, estruturas de controle, funções, `numpy` (arrays vetorizados), `pandas` (Series, DataFrame, leitura de CSV, filtragem, `groupby`) e `matplotlib`, escopado com base no que os módulos 01-10 realmente usam
 
 ## Objetivo
 Preparar a base de Python necessária para acompanhar todo o curso, para quem nunca programou ou está enferrujado. Sem este módulo, os módulos seguintes assumem que você já sabe ler e escrever código Python básico.
